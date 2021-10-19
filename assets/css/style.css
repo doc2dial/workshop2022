@@ -634,6 +634,25 @@ section {
   color: #fff;
   background: #ef6603;
 }
+.cta .content ul {
+  list-style: none;
+  padding: 0;
+}
+.cta .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+.cta .content ul li + li {
+  margin-top: 10px;
+}
+.cta .content ul i {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #ef6603;
+  line-height: 1;
+}
 .cta .cta-btn:hover {
   background: #fff;
   color: #ef6603;
