@@ -1,2 +1,2 @@
 # workshop2022
-DialDoc Workshop
+DialDoc Workshop Proposal
