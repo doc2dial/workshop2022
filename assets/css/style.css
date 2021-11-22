@@ -111,9 +111,11 @@ ul.no-bullets {
   text-decoration: none;
 }
 #header .logo img {
-  padding: 0;
+  padding-top: 5pt;
+  padding-bottom: 0pt;
   margin: 0;
-  max-height: 40px;
+  line-height: 0;
+  max-height: 70px;
 }
 
 /*--------------------------------------------------------------
