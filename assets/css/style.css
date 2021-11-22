@@ -27,6 +27,18 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.blue-text {
+  color: #03a9f4 !important;
+}
+
+.orange-text {
+  color: #fc8129 !important;
+}
+
+.green-text {
+  color: #1fadaa !important;
+}
+
 
 ul.no-bullets {
   list-style-type: none; /* Remove bullets */
