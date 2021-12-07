@@ -608,10 +608,10 @@ section {
   font-weight: 600;
   font-size: 26px;
 }
-.features .tab-pane ul {
+/* .features .tab-pane ul {
   list-style: none;
   padding: 0;
-}
+} */
 .features .tab-pane ul li {
   padding-bottom: 10px;
 }
