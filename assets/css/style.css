@@ -1174,6 +1174,7 @@ section {
 }
 .team .member .member-info {
   padding: 25px 15px;
+  text-align: center;
 }
 .team .member .member-info h4 {
   font-weight: 700;
